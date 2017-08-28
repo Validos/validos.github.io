@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 body {
 	background: #2a5298;
+	font-family: "Open Sans", sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
     margin: 25px 0px 20px 0px;
@@ -15,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 p {
     margin: 10px 0 15px 0;
-    font-family: "Open Sans";
+    font-family: "Open Sans", sans-serif;
     font-size: .9em;
 }
 img {
