@@ -1,6 +1,6 @@
 This is a curated collection of open source compliance related resources maintained by Validos r.y., an association established to help its members share open source compliance related work and information. For more information on Validos, please see the [Validos main site](http://www.validos.org). 
 
-This list is maintained in a [GitHub](https://github.com/Validos/validos.github.io) repository and is open to contributions from members and non-members alike. If you have a high-quality resource in mind that is missing from the list, feel free to drop us an email (team at validos dot org) - or just create a pull request!
+This list is maintained in a [GitHub repo](https://github.com/Validos/validos.github.io) and is open to contributions from members and non-members alike. If you have a high-quality resource in mind that is missing from the list, feel free to drop us an email (team at validos dot org) - or just create a pull request!
 
 ## Introductory and Training Resources
 - [OpenChain Curriculum](https://www.openchainproject.org/curriculum) - Training reference slides on open source compliance basics.
