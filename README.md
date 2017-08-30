@@ -19,3 +19,12 @@ This repository is maintained on [GitHub](https://github.com/Validos/validos.git
 
 ## Journals
 - [International Free and Open Source Software Law Review (IFOSS L. Rev)](http://www.ifosslr.org/ifosslr) -  A collaborative legal publication aiming to increase knowledge and understanding among lawyers about issues around Free and Open Source Software. Topics covered include copyright, license implementation, license interpretation, software patents, open standards, case law and statutory changes.
+
+## FAQs and Other Commentary
+- [Frequently Asked Questions about the GNU Licenses (GPL FAQ)](https://www.gnu.org/licenses/gpl-faq.html) by the Free Software Foundation. Includes FSF’s interpretations on various GPL-related questions, such as the scope of the GPL copyleft effect, static vs. dynamic linking, providing corresponding sources, mutual compatibility of GNU licenses, etc.
+- [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.html) by the Free Software Foundation. Includes FSF’s comments on various OSS licenses, particularly regarding what licenses they consider compatible with the GNU licenses.
+
+## Standards
+- [Open Source Definition](https://opensource.org/osd-annotated) by the Open Source Initiative
+- [OSI-approved Licenses](https://opensource.org/licenses) - licenses that comply with the Open Source Definition
+- [Software Package Data Exchange (SPDX) specification](https://spdx.org/) - a standard format for communicating the components, licenses and copyrights associated with software packages
