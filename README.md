@@ -1,4 +1,3 @@
-<a href="http://validos.org/"><img align="right" src="http://www.validos.org/images/Validos_logo.gif" alt="Validos" style="margin: 10px"></a>
 This is a curated collection of open source compliance resources maintained by Validos r.y., an association established to help its members share open source compliance related work and information. For more information on Validos, please see the [Validos main site](http://www.validos.org). This repository is maintained on [GitHub](https://github.com/Validos/validos.github.io) and is open to contributions from members and non-members alike. If you have a good-quality resource in mind that you think others might find useful as well, feel free to send an email or pull request our way!
 
 ## Introductory and Training Resources
