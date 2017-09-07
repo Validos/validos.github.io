@@ -29,3 +29,10 @@ This list is maintained in a [GitHub repo](https://github.com/Validos/validos.gi
 - [Open Source Definition](https://opensource.org/osd-annotated) by the Open Source Initiative
 - [OSI-approved Licenses](https://opensource.org/licenses) - licenses that comply with the Open Source Definition
 - [Software Package Data Exchange (SPDX) specification](https://spdx.org/) - a standard format for communicating the components, licenses and copyrights associated with software packages
+
+## Compliance Tools
+- General
+    - [FOSSology](https://www.fossology.org/) - An OSS compliance software system and toolkit. As a toolkit you can run license, copyright and export control scans from the command line. As a system, a database and a web UI are provided for a compliance workflow.
+- Ecosystem-specific
+    - Node/npm
+       - [jslicense](http://jslicense.org/) - Software licensing and compliance tools for the npm ecosystem. Check out e.g. [licensee.js](https://www.npmjs.com/package/licensee) which enables you to check package.json license information in project dependencies against SPDX-based rules. For CI purposes, the rules can also be enforced via passing/failing tests.
