@@ -9,7 +9,7 @@ This list is maintained in a [GitHub repo](https://github.com/Validos/validos.gi
 ## Guides and Tutorials
 - _Open Source Compliance in the Enterprise_ ([press release](https://www.linuxfoundation.org/blog/the-linux-foundation-issues-free-e-book-on-open-source-license-compliance-best-practices/), [download page](http://go.linuxfoundation.org/open-source-compliance-ebook)) by Ibrahim Haddad, published by the Linux Foundation. A guide for enterprises for establishing an open source management program and other best practices.
 - _Practical GPL Compliance_ ([blog post](https://www.linuxfoundation.org/publications/practical-gpl-compliance-download-this-free-guide-today/), [PDF](https://go.pardot.com/l/6342/2017-04-25/3tgx7j/6342/172947/Practical_GPL_Compliance_Digital.pdf)), a guide by Armijn Hemel and Shane Coughlan, published by the Linux Foundation. A hands-on resource for businesses and engineers tackling with GPL compliance. The guide includes instructions, checklists and flowcharts for setting up compliance measures to meet GPL requirements such as including proper notices and making the source code available in “complete and corresponding” form.
-- [Reuse.software] by FSF Europe. FSFE's take on developer best practices for expressing license and copyright information in FOSS projects.
+- [Reuse.software](https://reuse.software/) by FSF Europe. FSFE's take on developer best practices for expressing license and copyright information in FOSS projects.
 
 ## Example Policies
 - [Google’s Internal Open Source Documentation](https://opensource.google.com/docs/) (redacted public version). Includes documentation of Google’s policies and processes for using and releasing OSS and running open source community programs.
