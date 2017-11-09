@@ -33,14 +33,14 @@ This list is maintained in a [GitHub repo](https://github.com/Validos/validos.gi
 
 ## Compliance Tools
 - Open source
-    - [FOSSology](https://www.fossology.org/) - An OSS compliance software system and toolkit. As a toolkit you can run license, copyright and export control scans from the command line. As a system, a database and a web UI are provided for a compliance workflow.
+    - [FOSSology](https://www.fossology.org/) - An OSS compliance software system and toolkit. As a toolkit you can run license, copyright and export control scans from the command line. A database and a web UI are provided for a compliance workflow.
     - [Eclipse SW360](https://projects.eclipse.org/projects/technology.sw360) - A software component catalogue application designed to work with FOSSology.
     - [nexB Scancode Toolkit](https://www.nexb.com/community.html) - Open-sourced tools for OSS license discovery, provenance documentation and component tracing.
-    - [SPDX tools](https://spdx.org/tools) - Various to tools to help users and producers of SPDX documents.
+    - [SPDX tools](https://spdx.org/tools) - Various tools to help users and producers of SPDX documents.
     - [jslicense](http://jslicense.org/) - Software licensing and compliance tools for the npm ecosystem. Check out e.g. [licensee.js](https://www.npmjs.com/package/licensee) which enables you to check package.json license information in project dependencies against SPDX-based rules. For CI purposes, the rules can also be enforced via passing/failing tests.
 - Commercial
    - [Black Duck](https://www.blackducksoftware.com/solutions/open-source-license-compliance) - Products for open source license security and management.
    - [FlexNet Code Insight](https://www.flexera.com/enterprise/products/software-vulnerability-management/flexnet-code-insight/) (formerly Palamida) - OSS license compliance and vulnerability risk management product.
    - [DejaCode](http://www.dejacode.com/) - Open source and third-party software component management.
    - [Fossa.io](https://fossa.io/) - Toolkit for automated dependency tracking, license compliance and attribution notices.
-   - [git.legal](https://git.legal/) - Automated project code scanning, configurable license policies
+   - [git.legal](https://git.legal/) - Automated project code scanning, configurable license policies.
