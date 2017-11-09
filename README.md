@@ -15,6 +15,10 @@ This list is maintained in a [GitHub repo](https://github.com/Validos/validos.gi
 ## Example Policies
 - [Google’s Internal Open Source Documentation](https://opensource.google.com/docs/) (redacted public version). Includes documentation of Google’s policies and processes for using and releasing OSS and running open source community programs.
 
+## FAQs and Other Commentary
+- [Frequently Asked Questions about the GNU Licenses (GPL FAQ)](https://www.gnu.org/licenses/gpl-faq.html) by the Free Software Foundation. Includes FSF’s interpretations on various GPL-related questions, such as the scope of the GPL copyleft effect, static vs. dynamic linking, providing corresponding sources, mutual compatibility of GNU licenses, etc.
+- [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.html) by the Free Software Foundation. Includes FSF’s comments on various OSS licenses, particularly regarding what licenses they consider compatible with the GNU licenses.
+
 ## Books
 - [Open Source Licensing](http://www.rosenlaw.com/oslbook.htm) by Lawrence E. Rosen. Prentice Hall 2005. (Available online)
 - [Understanding Open Source & Free Software Licensing](http://www.oreilly.com/openbook/osfreesoft/book/) by Andrew M. St. Laurent. O’Reilly 2004. (Available online)
@@ -22,18 +26,21 @@ This list is maintained in a [GitHub repo](https://github.com/Validos/validos.gi
 ## Journals
 - [International Free and Open Source Software Law Review (IFOSS L. Rev)](http://www.ifosslr.org/ifosslr) -  A collaborative legal publication aiming to increase knowledge and understanding among lawyers about issues around Free and Open Source Software. Topics covered include copyright, license implementation, license interpretation, software patents, open standards, case law and statutory changes.
 
-## FAQs and Other Commentary
-- [Frequently Asked Questions about the GNU Licenses (GPL FAQ)](https://www.gnu.org/licenses/gpl-faq.html) by the Free Software Foundation. Includes FSF’s interpretations on various GPL-related questions, such as the scope of the GPL copyleft effect, static vs. dynamic linking, providing corresponding sources, mutual compatibility of GNU licenses, etc.
-- [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.html) by the Free Software Foundation. Includes FSF’s comments on various OSS licenses, particularly regarding what licenses they consider compatible with the GNU licenses.
-
 ## Standards
 - [Open Source Definition](https://opensource.org/osd-annotated) by the Open Source Initiative
 - [OSI-approved Licenses](https://opensource.org/licenses) - licenses that comply with the Open Source Definition
 - [Software Package Data Exchange (SPDX) specification](https://spdx.org/) - a standard format for communicating the components, licenses and copyrights associated with software packages
 
 ## Compliance Tools
-- General
+- Open source
     - [FOSSology](https://www.fossology.org/) - An OSS compliance software system and toolkit. As a toolkit you can run license, copyright and export control scans from the command line. As a system, a database and a web UI are provided for a compliance workflow.
-- Ecosystem-specific
-    - Node/npm
-       - [jslicense](http://jslicense.org/) - Software licensing and compliance tools for the npm ecosystem. Check out e.g. [licensee.js](https://www.npmjs.com/package/licensee) which enables you to check package.json license information in project dependencies against SPDX-based rules. For CI purposes, the rules can also be enforced via passing/failing tests.
+    - [Eclipse SW360](https://projects.eclipse.org/projects/technology.sw360) - A software component catalogue application designed to work with FOSSology.
+    - [nexB Scancode Toolkit](https://www.nexb.com/community.html) - Open-sourced tools for OSS license discovery, provenance documentation and component tracing.
+    - [SPDX tools](https://spdx.org/tools) - Various to tools to help users and producers of SPDX documents.
+    - [jslicense](http://jslicense.org/) - Software licensing and compliance tools for the npm ecosystem. Check out e.g. [licensee.js](https://www.npmjs.com/package/licensee) which enables you to check package.json license information in project dependencies against SPDX-based rules. For CI purposes, the rules can also be enforced via passing/failing tests.
+- Commercial
+   - [Black Duck](https://www.blackducksoftware.com/solutions/open-source-license-compliance) - Products for open source license security and management.
+   - [FlexNet Code Insight](https://www.flexera.com/enterprise/products/software-vulnerability-management/flexnet-code-insight/) (formerly Palamida) - OSS license compliance and vulnerability risk management product.
+   - [DejaCode](http://www.dejacode.com/) - Open source and third-party software component management.
+   - [Fossa.io](https://fossa.io/) - Toolkit for automated dependency tracking, license compliance and attribution notices.
+   - [git.legal](https://git.legal/) - Automated project code scanning, configurable license policies
