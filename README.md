@@ -35,7 +35,8 @@ This list is maintained in a [GitHub repo](https://github.com/Validos/validos.gi
 - Open source
     - [FOSSology](https://www.fossology.org/) - An OSS compliance software system and toolkit. As a toolkit you can run license, copyright and export control scans from the command line. A database and a web UI are provided for a compliance workflow.
     - [Eclipse SW360](https://projects.eclipse.org/projects/technology.sw360) - A software component catalogue application designed to work with FOSSology.
-    - [nexB Scancode Toolkit](https://www.nexb.com/community.html) - Open-sourced tools for OSS license discovery, provenance documentation and component tracing.
+    - [Scancode Toolkit](https://www.nexb.com/community.html) - Open-sourced tools for OSS license discovery, provenance documentation and component tracing.
+    - [OSS Review Toolkit (ORT)](https://github.com/heremaps/oss-review-toolkit) - A suite of tools to assist with reviewing open source software dependencies.
     - [SPDX tools](https://spdx.org/tools) - Various tools to help users and producers of SPDX documents.
     - [jslicense](http://jslicense.org/) - Software licensing and compliance tools for the npm ecosystem. Check out e.g. [licensee.js](https://www.npmjs.com/package/licensee) which enables you to check package.json license information in project dependencies against SPDX-based rules. For CI purposes, the rules can also be enforced via passing/failing tests.
 - Commercial
